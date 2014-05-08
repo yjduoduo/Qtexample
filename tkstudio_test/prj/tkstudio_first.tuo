@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TKStudioOptions Version="3.00" Author="YinHandong[Òüº®¶¬]">
+    <Projects OPTPES="98,96,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,">
+        <Project ProjectGUID="{48EC77FE-9858-46d7-9EEB-4590C0B05420}" Name="tkstudio_first" ACTCFG="DebugRel">
+            <TARGOPT Name="DebugRel" OPTDF="0">
+                <OPTFFF VAL="&lt;..\test.c&gt; {0,1,-1,-1,50,50,1053,302,0,175}" />
+                <OPTFFF VAL="&lt;d:\tkstudio\build\sourcery g++ lite\arm-none-eabi\include\_ansi.h&gt; {0,1,-1,-1,50,50,1053,302,0,215}" />
+                <OPTFFF VAL="&lt;d:\tkstudio\build\sourcery g++ lite\arm-none-eabi\include\alloca.h&gt; {0,1,-1,-1,50,50,1053,302,0,215}" />
+                <OPTFFF VAL="&lt;d:\tkstudio\build\sourcery g++ lite\arm-none-eabi\include\machine\ieeefp.h&gt; {0,1,-1,-1,50,50,1053,302,0,215}" />
+                <OPTFFF VAL="&lt;&gt; {2,3,-1,-1,50,50,1053,302,0,0}" />
+            </TARGOPT>
+        </Project>
+    </Projects>
+</TKStudioOptions>
